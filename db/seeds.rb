@@ -3,7 +3,7 @@ Flat.destroy_all
 Flat.create!(
   name: 'Paradise Point',
   address: '1891 Paula Dr Honolulu Hawaii 96816',
-  description: 'A tropical retreat for a busy family. Pool, gym, sauna and everything you need for the ultimate Hawaii getaway',
+  description: 'A tropical retreat for a busy family. Everything you need for the ultimate Hawaii getaway',
   price_per_night: 250,
   number_of_guests: 5,
   number_of_bedrooms: 3
@@ -30,7 +30,7 @@ Flat.create!(
 Flat.create!(
   name: 'Koakoa Villa',
   address: '1522 Paula Dr Honolulu Hawaii 96816',
-  description: 'The perfect Hawaiin vacation for a small family! Playground, pool and mango tree in the yard!',
+  description: 'The perfect Hawaiian vacation for a small family! Playground, pool and mango tree in the yard!',
   price_per_night: 250,
   number_of_guests: 4,
   number_of_bedrooms: 2
